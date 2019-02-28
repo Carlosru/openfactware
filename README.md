@@ -7,8 +7,8 @@ Esta aplicación Web ha sido probada en Apache Tomcat 7 y 8 y con Java , actualm
 usuario: general <br />
 contraseña: contribute
 
-Una vesion SasS ya mas avanzada la puedesrevisar en esta liga
-https://openerp.homelinux.com/ y puedes entrar con un usuario de prueba o demo con esta cuenta:
+Una vesion SasS ya mas avanzada la puedes revisar en esta liga
+https://openerp.homelinux.com/ y puedes entrar con una cuenta de prueba o demo con esta credenciales:
 
 usuario: test@ware.com <br />
 contraseña:12345 
